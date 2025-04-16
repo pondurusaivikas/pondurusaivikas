@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDevelopment <br>👯 I’m looking to collaborate on Python and Java Projects<br>🤝 I’m looking for help with Software developers<br>🌱 I’m currently learning React js <br>
+🔭 I’m currently working in KALGUDI DIGITAL PVT LTD as a FULL SATCK DEVLELOPER <br> 🤝 I’m looking for help with Software developers<br>🌱 I’m currently working on ANGULAR , NODEJS , POSTGRE SQL <br>
 
 
 ## 🌐 Socials:
